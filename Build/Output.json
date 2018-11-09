@@ -1,0 +1,13 @@
+{
+"companyName": "Verge",
+"productName": "Syngenta: Corn Agronomy",
+"dataUrl": "Output.data.unityweb",
+"asmCodeUrl": "Output.asm.code.unityweb",
+"asmMemoryUrl": "Output.asm.memory.unityweb",
+"asmFrameworkUrl": "Output.asm.framework.unityweb",
+"TOTAL_MEMORY": 1073741824,
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
